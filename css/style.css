@@ -1,0 +1,11 @@
+.rounded-img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+
+.footer-row{
+    height: 200px;
+    padding-top: 30px;
+}
